@@ -1,0 +1,33 @@
+{
+  "name": "magnamearum",
+  "version": "1.0.0",
+  "description": "Chromecast streaming module all in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KurtisSpencer/magnamearum.git"
+  },
+  "keywords": [
+    "chromecast",
+    "googlecast",
+    "dolores",
+    "streaming",
+    "officia"
+  ],
+  "author": "SigurdGutmann",
+  "license": "ISC",
+  "homepage": "https://github.com/KurtisSpencer/magnamearum.git",
+  "dependencies": {
+    "castv2-client": "1.2.0",
+    "debug": "4.1.1",
+    "multicast-dns": "7.2.0",
+    "node-ssdp": "4.0.0",
+    "inherits": "^2.0.1"
+  },
+  "devDependencies": {
+    "standard": "latest"
+  }
+}
